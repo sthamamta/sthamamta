@@ -1,5 +1,5 @@
 # Mamata Shrestha
-I am currently pursuing my Master's in Computer Science Degree at the University of Arkansas. My current research is focused on medical image analysis and super-resolution. I have some industry experience working as a backend developer.
+I am currently pursuing my Master's in Computer Science Degree at the University of Arkansas. My current research is focused on medical image analysis and super-resolution. I also have some industry experience as a backend developer.
 
 <p align="center">
 	<a href="https://github.com/sthamamta">
