@@ -1,6 +1,6 @@
 # Mamata Shrestha
 I am currently pursuing my Master's in Computer Science Degree at the University of Arkansas. My current research is focused on medical image analysis and super-resolution. I also have some industry experience as a backend developer.
-
+<!---
 <p align="center">
 	<a href="https://github.com/sthamamta">
 		<img src="https://komarev.com/ghpvc/?username=sthamamta&label=Profile%20views&color=0e75b6&style=flat" alt="sthamamta" />
@@ -9,7 +9,7 @@ I am currently pursuing my Master's in Computer Science Degree at the University
 		<img src="https://img.shields.io/github/followers/sthamamta?label=Followers" alt="sthamamta" />
 	</a>
 </p>
-
+-->
 ## Skills: 
 * Python
 * Java 
